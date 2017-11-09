@@ -16,16 +16,3 @@ body {
     color: #777;
     border-top: .05rem solid #e5e5e5;
 }
-
-.bg-1 { 
-    background-color: #1abc9c; /* Green */
-     color: #ffffff;
- }
- .bg-2 { 
-    background-color: #474e5d; /* Dark Blue */
-    color: #ffffff;
-}
-.bg-3 { 
-    background-color: #ffff22; /* White */
-    color: #555555;
-}
